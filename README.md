@@ -14,6 +14,10 @@ Next, after gaining sense of the implementation I have moved to the NLP Code, th
 
 ![image](https://github.com/Tavleen1203/LogAnonymization_Challenge/assets/122363068/5f716e67-09f1-43ca-9d65-390e7293ddb9)
 
+Then I tried a simple ensemble technique combining regex and spacy for masking textual data which tries to implement text anonymization like presidio, which is a text anonymizer
+![image](https://github.com/Tavleen1203/LogAnonymization_Challenge/assets/122363068/2cd7c6e3-9e38-43ce-89df-fd9e2d3fae6d)
+
+
 Notebook:
 https://colab.research.google.com/drive/1jWk8vRdwCptGgVWXPYhK0MG9Fbk2xsuW?usp=sharing
 

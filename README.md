@@ -10,7 +10,7 @@ Output Validation:
 Next, after gaining sense of the implementation I have moved to the NLP Code, the technique that I used here was text masking. For this, I have created a sensitive_info object, for reference. Then upon iterating over the data, each time a pattern of the object is encountered, the mask_text() function is called and it masks the text based on tag defined in the sensitive_info.
 
 Output Validation:
-![Screenshot 2024-04-05 162344](https://github.com/Tavleen1203/LogAnonymization_Challenge/assets/122363068/3afe0931-e9b7-4605-a67b-bce64d626ef8)
+![image](https://github.com/Tavleen1203/LogAnonymization_Challenge/assets/122363068/5f716e67-09f1-43ca-9d65-390e7293ddb9)
 
 Notebook:
 https://colab.research.google.com/drive/1jWk8vRdwCptGgVWXPYhK0MG9Fbk2xsuW?usp=sharing
